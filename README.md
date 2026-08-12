@@ -1,2 +1,1 @@
-# basic-discord-bot
-made by using python and  c++ 
+Built a Discord Bot Recently worked on a Discord bot using Python and C++.
